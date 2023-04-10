@@ -8,7 +8,7 @@ main().catch(err => console.log(err));
 
 
 async function main() {
-    await mongoose.connect('mongodb+srv://mika-em:WabiSabi110@cluster0.g0isrve.mongodb.net/?retryWrites=true&w=majority');
+    await mongoose.connect('mongodb+srv://for_nabil:pokemon@cluster0.g0isrve.mongodb.net/?retryWrites=true&w=majority');
 
 }
 
